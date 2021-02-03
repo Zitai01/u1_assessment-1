@@ -1,12 +1,4 @@
-<img src="https://i.imgur.com/sX12DTc.png">
-
 # Project 1 Assessment
-
-## Introduction (By Instructor)
-
-This **Introduction** section will be read in class by the instructor.
-
-Students will be self-directed beginning with the **Instructions & Time Guidelines** section below.
 
 ### GOAL
 
