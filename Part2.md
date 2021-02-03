@@ -1,5 +1,5 @@
 # Unit 1 Assessment
-
+![langs](https://clipart.info/images/ccovers/1499794874html5-js-css3-logo-png.png)
 ## Goal
 
 The goal of this final assessment is to gauge your ability to develop a **minimal** front-end web application using HTML, CSS & JavaScript, including your ability to:
@@ -39,6 +39,9 @@ Please follow the following steps in order:
 - **Step 4 - Bonus**
 
 **The times above are just estimated guidelines.**
+
+![steps](https://www.learnupon.com/wp-content/uploads/@2x-Blog-ADDIE-stairs-animation.gif)
+
 ## Step 1 - Prepare 
 - Briefly read through the rest of this assignment to better understand what is required before starting to code.
 
@@ -76,6 +79,8 @@ From within `project-1-assessment`:
 <img src="https://i.imgur.com/agT3aGX.png">
 
 Congrats, that's all there is to it!
+
+![success](https://media.tenor.co/images/71c367112da172a580f9abbdef5b67e2/raw)
 
 ## Step 4 - Bonus
 - As a bonus, display the count in red if it is a negative value!
