@@ -50,53 +50,47 @@ Please follow the following steps in order:
 
 ## Assessment Steps to Complete
 
-### Step 1 - Prepare (5 minutes)
+## Step 1 - Prepare (5 minutes)
 
 Briefly read through the rest of this assignment to better understand what is required before starting to code.
 
-### Step 2 - Set Up the App (5 minutes)
+## Step 2 - Set Up the App (5 minutes)
 
-Be sure to follow best practices when setting up the project:
+- Create a folder named `project-1-assessment`.
 
-- Create a folder named `project-1-assessment` outside of all repos.
+From within `project-1-assessment`:
 - Create a `js` and `css` folder.
-- Touch `index.html`
+- Touch `index.html`.
 - Touch `js/main.js`, and include it in `index.html` such that it runs after the DOM is ready.
 - Touch `css/main.css` and link it in.
 
-### Step 3 - Implement the App's Requirements (40 minutes)
+## Step 3 - Implement the App's Requirements (40 minutes)
 
-#### Upon Loading
-
-When the application initially loads, the `<input>`'s value should be set to `1` and the initial count of `0` is rendered such that the display looks something like this:
+### Upon Loading
+- When the application initially loads, the `<input>`'s value should be set to `1` and the initial count of `0` is rendered such that the display looks something like this:
 
 <img src="https://i.imgur.com/nsLfnoG.png">
 
-#### When the "+" Button is Clicked
-
-When the "+" button is clicked, the value entered in the `<input>` is added to the count and the new count value displayed.
-
-For example, if the "+" button is clicked immediately after the app loading, the display should look something like this:
+### When the "+" Button is Clicked
+- When the "+" button is clicked, the value entered in the `<input>` is added to the count and the new count value displayed.
+- For example, if the "+" button is clicked immediately after the app loading, the display should look something like this:
 
 <img src="https://i.imgur.com/xNdlBn2.png">
 
-#### When the "-" Button is Clicked
-
-When the "-" button is clicked, the value entered in the `<input>` is subtracted from the count and the new count value displayed.
-
-Continuing from the previous example, if the number 200 is typed in the `<input>` and the "-" button is clicked, the display should look something like this:
+### When the "-" Button is Clicked
+- When the "-" button is clicked, the value entered in the `<input>` is subtracted from the count and the new count value displayed.
+- Continuing from the previous example, if the number 200 is typed in the `<input>` and the "-" button is clicked, the display should look something like this:
 
 <img src="https://i.imgur.com/QjtcAJT.png">
 
-#### Hovering Over the "+" or "-" Button
-
-When the mouse is over the "+" or "-" button, the button should reverse its background and text colors:
+### Hovering Over the "+" or "-" Button
+- When the mouse is over the "+" or "-" button, the button should reverse its background and text colors:
 
 <img src="https://i.imgur.com/agT3aGX.png">
 
 Congrats, that's all there is to it!
 
-### STEP 4 - Bonus
+### Step 4 - Bonus
 
 As a bonus, display the count in red if it is a negative value!
 
