@@ -39,10 +39,10 @@ Please follow the following steps in order:
 - **Step 4 - Bonus**
 
 **The times above are just estimated guidelines.**
-## Step 1 - Prepare `5 minutes`
+## Step 1 - Prepare 
 - Briefly read through the rest of this assignment to better understand what is required before starting to code.
 
-## Step 2 - Set Up the App `5 minutes`
+## Step 2 - Set Up the App
 - Create a folder named `project-1-assessment`.
 
 From within `project-1-assessment`:
@@ -51,7 +51,7 @@ From within `project-1-assessment`:
 - Touch `js/main.js`, and include it in `index.html` such that it runs after the DOM is ready.
 - Touch `css/main.css` and link it in.
 
-## Step 3 - Implement the App's Requirements `40 minutes`
+## Step 3 - Implement the App's Requirements 
 
 ### Upon Loading
 - When the application initially loads, the `<input>`'s value should be set to `1` and the initial count of `0` is rendered such that the display looks something like this:
