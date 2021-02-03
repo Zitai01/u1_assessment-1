@@ -13,12 +13,11 @@ The goal of this final assessment is to gauge your ability to develop a **minima
 	- Manipulate a DOM element's content and style. 
 
 ## Overall Application
-
 This is what your application should look like when you finish:
+
 <img src="https://i.imgur.com/nsLfnoG.png">
 
 The application's UI consists of:
-
 - A count display
 - Two buttons ("+" & "-")
 - An `<input>` element
@@ -27,31 +26,23 @@ Application requirements are covered in further detail below. Make sure you read
 Use the screenshots below as your "wireframes"; the styling does not have to be exact, however, the closer it is to the screenshots, the better!
 
 ## Process
-
 - This assessment is an **individual** assignment - no collaboration please.
 - The good news is that it's "open book" - you may reference anything on your computer, Google, use notes, etc. 
 - However, don't spend too much time researching unless you're stuck - **do not over-think this application!!!**
 - It is estimated that this project assessment will take 60 to 90 minutes to complete. 
 
 ## Instructions & Time Guidelines (You've Got This!)
-
 Please follow the following steps in order:
-
 - **Step 1 - Prepare** (&asymp; 5 minutes)
 - **Step 2 - Set Up the App** (&asymp; 5 minutes)
 - **Step 3 - Implement the App's Requirements** (&asymp; 40 minutes)
 - **Step 4 - Bonus**
 
 **The times above are just estimated guidelines.**
-
-## Assessment Steps to Complete
-
 ## Step 1 - Prepare (5 minutes)
-
-Briefly read through the rest of this assignment to better understand what is required before starting to code.
+- Briefly read through the rest of this assignment to better understand what is required before starting to code.
 
 ## Step 2 - Set Up the App (5 minutes)
-
 - Create a folder named `project-1-assessment`.
 
 From within `project-1-assessment`:
@@ -86,16 +77,13 @@ From within `project-1-assessment`:
 
 Congrats, that's all there is to it!
 
-### Step 4 - Bonus
-
-As a bonus, display the count in red if it is a negative value!
+## Step 4 - Bonus
+- As a bonus, display the count in red if it is a negative value!
+- You can also code for edge cases (for example, if someone puts a string in the input area)
 
 <img src="https://i.imgur.com/LCSG1Wg.png">
 
-You can also code for edge cases (for example, if someone puts a string in the input area)
-
 ## Hints
-
 - **Prioritize functionality over layout/styling.** Once the functionality is complete, then work on styling to get the UI as close as possible to the wireframes/images (see the below hint for using flexbox for layout).
 - The principles in [Guide on How to Build a Browser App](https://github.com/ga-students/wdi-dt-57/blob/master/work/w01/d5/03-guide-to-building-a-browser-app.md) apply!
 - Use CSS flexbox to ease horizontal and vertical centering:
