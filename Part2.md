@@ -23,7 +23,7 @@ This is what your application should look like when you finish. The application'
 
 
 Application requirements are covered in further detail below. Make sure you read through the instructions completely.
-Use the screenshots below as your "wireframes"; the styling does not have to be exact, however, the closer it is to the screenshots, the better!
+Use the screenshots below as your "wireframes". The styling does not have to be exact, however, the closer it is to the screenshots, the better!
 
 ## Process
 - This assessment is an **individual** assignment - no collaboration please.
