@@ -14,7 +14,7 @@ The goal of this final assessment is to gauge your ability to develop a **minima
 
 ## Overall Application
 
-This is what your application should look like:
+This is what your application should look like when you finish:
 <img src="https://i.imgur.com/nsLfnoG.png">
 
 The application's UI consists of:
@@ -23,19 +23,15 @@ The application's UI consists of:
 - Two buttons ("+" & "-")
 - An `<input>` element
 
-Application requirements are expounded on in each section below. Make sure you read through the instructions completely.
-
+Application requirements are covered in further detail below. Make sure you read through the instructions completely.
 Use the screenshots below as your "wireframes"; the styling does not have to be exact, however, the closer it is to the screenshots, the better!
 
 ## Process
 
-This assessment is an **individual** assignment - no collaboration please.
-
-The good news is that it's "open book" - you may reference anything on your computer, Google, use notes, etc. 
-
-However, don't spend too much time researching unless you're stuck - **do not over-think this application!!!**
-
-It is estimated that this project assessment will take 60 to 90 minutes to complete. However, you have 3 hours should you need the extra time.
+- This assessment is an **individual** assignment - no collaboration please.
+- The good news is that it's "open book" - you may reference anything on your computer, Google, use notes, etc. 
+- However, don't spend too much time researching unless you're stuck - **do not over-think this application!!!**
+- It is estimated that this project assessment will take 60 to 90 minutes to complete. 
 
 ## Instructions & Time Guidelines (You've Got This!)
 
