@@ -1,6 +1,6 @@
 # Unit 1 Assessment
 
-### GOAL
+## Goal
 
 The goal of this final assessment is to gauge your ability to develop a **minimal** front-end web application using HTML, CSS & JavaScript, including your ability to:
 
@@ -12,7 +12,7 @@ The goal of this final assessment is to gauge your ability to develop a **minima
 	- Listen for browser events, such as `click`, being dispatched by DOM elements.
 	- Manipulate a DOM element's content and style. 
 
-### OVERALL APPLICATION
+## Overall Application
 
 This is what your application should look like:
 <img src="https://i.imgur.com/nsLfnoG.png">
@@ -27,7 +27,7 @@ Application requirements are expounded on in each section below. Make sure you r
 
 Use the screenshots below as your "wireframes"; the styling does not have to be exact, however, the closer it is to the screenshots, the better!
 
-### PROCESS
+## Process
 
 This assessment is an **individual** assignment - no collaboration please.
 
@@ -41,21 +41,20 @@ It is estimated that this project assessment will take 60 to 90 minutes to compl
 
 Please follow the following steps in order:
 
-- **STEP 1 - Prepare** (&asymp; 5 minutes)
-- **STEP 2 - Set Up the App** (&asymp; 5 minutes)
-- **STEP 3 - Implement the App's Requirements** (&asymp; 40 minutes)
-- **STEP 4 - Deploy to GitHub Pages** (&asymp; 10 minutes)
-- **STEP 5 - Bonus**
+- **Step 1 - Prepare** (&asymp; 5 minutes)
+- **Step 2 - Set Up the App** (&asymp; 5 minutes)
+- **Step 3 - Implement the App's Requirements** (&asymp; 40 minutes)
+- **Step 4 - Bonus**
 
 **The times above are just estimated guidelines.**
 
 ## Assessment Steps to Complete
 
-### STEP 1 - Prepare (5 minutes)
+### Step 1 - Prepare (5 minutes)
 
 Briefly read through the rest of this assignment to better understand what is required before starting to code.
 
-### STEP 2 - Set Up the App (5 minutes)
+### Step 2 - Set Up the App (5 minutes)
 
 Be sure to follow best practices when setting up the project:
 
@@ -65,7 +64,7 @@ Be sure to follow best practices when setting up the project:
 - Touch `js/main.js`, and include it in `index.html` such that it runs after the DOM is ready.
 - Touch `css/main.css` and link it in.
 
-### STEP 3 - Implement the App's Requirements (40 minutes)
+### Step 3 - Implement the App's Requirements (40 minutes)
 
 #### Upon Loading
 
