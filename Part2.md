@@ -2,7 +2,7 @@
 ![langs](https://clipart.info/images/ccovers/1499794874html5-js-css3-logo-png.png)
 ## Goal
 
-The goal of this final assessment is to gauge your ability to develop a **minimal** front-end web application using HTML, CSS & JavaScript, including your ability to:
+The goal of this assessment is to gauge your ability to develop a **minimal** front-end web application using HTML, CSS & JavaScript, including your ability to:
 
 - Write HTML that provides the application's overall structure and content. 
 - Use CSS to provide styling.
@@ -46,13 +46,13 @@ Please follow the following steps in order:
 - Briefly read through the rest of this assignment to better understand what is required before starting to code.
 
 ## Step 2 - Set Up the App
-- Create a folder named `project-1-assessment`.
+- You'll be working in the `assessment-part-2` folder in the `script.js`, `styles.css`, and `index.html` files in this part
+- Add an HTML boilerplate to get started (remember `! + tab` can help with this)
+- `<link>` your `styles.css` stylesheet in the `<head>` tag of your `index.html`
+- Connect your `script.js` with a `<script>` tag at the bottom of the `<body>` tag in your `index.html`
+- Open your `index.html` in your browser
+- You can check to see if your `script.js` is connected by adding a console.log() and then opening your developer tools in your browser
 
-From within `project-1-assessment`:
-- Create a `js` and `css` folder.
-- Touch `index.html`.
-- Touch `js/main.js`, and include it in `index.html` such that it runs after the DOM is ready.
-- Touch `css/main.css` and link it in.
 
 ## Step 3 - Implement the App's Requirements 
 
