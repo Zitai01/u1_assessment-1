@@ -13,14 +13,14 @@ The goal of this final assessment is to gauge your ability to develop a **minima
 	- Manipulate a DOM element's content and style. 
 
 ## Overall Application
-This is what your application should look like when you finish:
-
-<img src="https://i.imgur.com/nsLfnoG.png">
-
-The application's UI consists of:
+This is what your application should look like when you finish. The application's UI consists of:
 - A count display
 - Two buttons ("+" & "-")
 - An `<input>` element
+
+<img src="https://i.imgur.com/nsLfnoG.png">
+
+
 
 Application requirements are covered in further detail below. Make sure you read through the instructions completely.
 Use the screenshots below as your "wireframes"; the styling does not have to be exact, however, the closer it is to the screenshots, the better!
