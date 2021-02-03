@@ -97,12 +97,6 @@ When the mouse is over the "+" or "-" button, the button should reverse its back
 
 Congrats, that's all there is to it!
 
-### STEP 4 - Deploy to GitHub Pages (10 minutes)
-
-Please follow the steps from the in-class lesson to deploy to Github Pages.
-
-**Slack the deployed app's link to your instructors - congrats, you are done!**
-
 ### STEP 4 - Bonus
 
 As a bonus, display the count in red if it is a negative value!
