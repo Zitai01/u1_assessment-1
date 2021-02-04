@@ -29,17 +29,8 @@ Use the screenshots below as your "wireframes". The styling does not have to be 
 - This assessment is an **individual** assignment - no collaboration please.
 - The good news is that it's "open book" - you may reference anything on your computer, Google, use notes, etc. 
 - However, don't spend too much time researching unless you're stuck - **do not over-think this application!!!**
-- It is estimated that this project assessment will take 60 to 90 minutes to complete. 
 
-## Instructions & Time Guidelines (You've Got This!)
-Please follow the following steps in order:
-- **Step 1 - Prepare** (&asymp; 5 minutes)
-- **Step 2 - Set Up the App** (&asymp; 5 minutes)
-- **Step 3 - Implement the App's Requirements** (&asymp; 40 minutes)
-- **Step 4 - Bonus**
-
-**The times above are just estimated guidelines.**
-
+## Instructions 
 ![steps](https://www.learnupon.com/wp-content/uploads/@2x-Blog-ADDIE-stairs-animation.gif)
 
 ## Step 1 - Prepare 
@@ -52,7 +43,6 @@ Please follow the following steps in order:
 - Connect your `script.js` with a `<script>` tag at the bottom of the `<body>` tag in your `index.html`
 - Open your `index.html` in your browser
 - You can check to see if your `script.js` is connected by adding a console.log() and then opening your developer tools in your browser
-
 
 ## Step 3 - Implement the App's Requirements 
 
