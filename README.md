@@ -10,7 +10,7 @@
 
 ## Assessment Outline
 
-This assessment is used to gauge where you stand with basic JavaScript, HTML, and CSS. Your assessment will be graded from a 0-100% scale. Each question in Part One is worth 10 points and the Part Two challenge is worth 40. You'll have **3 hours** to complete this assessment.
+This assessment is used to gauge where you stand with basic JavaScript, HTML, and CSS. Your assessment will be graded from a 0-100% scale. Each question in Part One is worth 10 points (for a total of 60) and the Part Two challenge is worth a total of 40. You'll have **3 hours** to complete this assessment.
 
 ## Part One
 
