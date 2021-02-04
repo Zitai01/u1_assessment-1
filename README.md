@@ -1,6 +1,6 @@
 # Unit 1 Assessment
 
-![](https://media.giphy.com/media/l3fZLMbuCOqJ82gec/giphy.gif)
+![Hangover](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F3owzW5c1tPq63MPmWk%2Fgiphy.gif&f=1&nofb=1)
 
 ## Getting Started
 
