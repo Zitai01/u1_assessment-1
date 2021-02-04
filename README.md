@@ -22,7 +22,7 @@ The prompt for each function is provided in a comment inside of each function bl
 
 ## Part Two
 
-Open the `part2.md` file located in the `assessment-part-2` folder to complete the second part of this assessment.
+Open the `Part2.md` file located in the `assessment-part-2` folder to complete the second part of this assessment.
 
 ## Submissions
 
