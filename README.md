@@ -26,4 +26,4 @@ Open the `Part2.md` file located in the `assessment-part-2` folder to complete t
 
 ## Submissions
 
-Submissions will be done through a pull request on this repo following the [Pull Request Guidelines](https://github.com/SEI-R-1-25/template_pull_request).
+Submissions will be done through a pull request on this repo following the [PR Guidelines](https://github.com/SEI-R-4-26/template_pull_request).
