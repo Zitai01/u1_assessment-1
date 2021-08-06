@@ -1,1 +1,19 @@
-/* Insert Css Here */
+body {
+  background-color: white;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 70px;
+  margin-top: 100px;
+}
+
+.app {
+  display: inline-block;
+}
+
+button:hover {
+  background-color: black;
+  color: white;
+}
