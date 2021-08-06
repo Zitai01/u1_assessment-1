@@ -1,3 +1,5 @@
+// Make sure to RETURN all of your results
+
 const joinStrings = (str1, str2) => {
   // Return a string with both strings combined. You MUST include a space between the two strings when joining.
 
